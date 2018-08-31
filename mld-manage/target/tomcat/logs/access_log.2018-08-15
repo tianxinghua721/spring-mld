@@ -1,0 +1,6 @@
+127.0.0.1 - - [15/Aug/2018:11:36:13 +0800] "GET / HTTP/1.1" 200 56 http-bio-8091-exec-1 658
+127.0.0.1 - - [15/Aug/2018:11:36:14 +0800] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8091-exec-3 1263
+127.0.0.1 - - [15/Aug/2018:11:36:24 +0800] "GET /FindUser HTTP/1.1" 500 6233 http-bio-8091-exec-5 91
+127.0.0.1 - - [15/Aug/2018:11:39:58 +0800] "GET /FindUser HTTP/1.1" 500 13910 http-bio-8091-exec-1 1658
+127.0.0.1 - - [15/Aug/2018:12:01:31 +0800] "GET /FindUser HTTP/1.1" 200 572 http-bio-8091-exec-2 1521
+127.0.0.1 - - [15/Aug/2018:12:01:31 +0800] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8091-exec-3 5
